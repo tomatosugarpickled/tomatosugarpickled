@@ -142,8 +142,8 @@
       </a>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/tomatosugarpickled/announcement-_ai">
-        <h3>🤖 announcement-ai</h3>
+      <a href="https://github.com/tomatosugarpickled/aws-candm">
+        <h3>🤖 aws-candm</h3>
       </a>
     </td>
   </tr>
@@ -162,26 +162,6 @@
 </table>
 
 </div>
-
-<br/>
-
-<!-- ======================== GitHub Stats ======================== -->
-<div align="center">
-
-## ✨ My GitHub Stats ✨
-
-<a href="https://github.com/tomatosugarpickled">
-  <img src="https://github-readme-stats.vercel.app/api?username=tomatosugarpickled&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomatosugarpickled&layout=compact&theme=tokyonight&hide_border=true" height="180" />
-</a>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tomatosugarpickled&theme=tokyonight&hide_border=true" height="180" />
-
-</div>
-
-<br/>
 
 <!-- ======================== Footer ======================== -->
 <div align="center">
