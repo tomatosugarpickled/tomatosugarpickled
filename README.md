@@ -1,7 +1,7 @@
 <!-- ======================== 헤더 배너 ======================== -->
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=dev_TSP&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20Portfolio&descAlignY=60&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=tomatosugarpickled&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20Portfolio&descAlignY=60&descSize=18" />
 
   <h3>👋 Hi there! I'm tomatosugarpickled</h3>
 
