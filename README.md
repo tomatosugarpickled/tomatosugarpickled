@@ -3,7 +3,7 @@
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=tomatosugarpickled&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20Portfolio&descAlignY=60&descSize=18" />
 
-  <h3>👋 Hi there! I'm tomatosugarpickled</h3>
+  <h3>안녕하세요. 개발자 홍성호입니다.</h3>
 
   <a href="mailto:your.email@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
@@ -119,26 +119,44 @@
 <!-- ======================== Projects ======================== -->
 <div align="center">
 
-## 📂 Projects 📂
+## Projects
 
-<a href="https://github.com/tomatosugarpickled/CI-CD-globalgates">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tomatosugarpickled&repo=CI-CD-globalgates&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/tomatosugarpickled/aws-candm">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tomatosugarpickled&repo=aws-candm&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/tomatosugarpickled/globalgates-front">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tomatosugarpickled&repo=globalgates-front&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/tomatosugarpickled/globalgates-back">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tomatosugarpickled&repo=globalgates-back&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/tomatosugarpickled/front">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tomatosugarpickled&repo=front&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/tomatosugarpickled/back">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tomatosugarpickled&repo=back&theme=tokyonight&hide_border=true" />
-</a>
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/tomatosugarpickled/CI-CD-globalgates">
+        <b>CI-CD-globalgates</b>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/tomatosugarpickled/globalgates-back">
+        <b>globalgates-back</b>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/tomatosugarpickled/globalgates-front">
+        <b>globalgates-front</b>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/tomatosugarpickled/aws-candm">
+        <b>aws-candm</b>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/tomatosugarpickled/candm-back">
+        <b>candm-back</b>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/tomatosugarpickled/candm-front">
+        <b>candm-front</b>
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
