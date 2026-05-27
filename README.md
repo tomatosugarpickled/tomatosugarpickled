@@ -121,44 +121,24 @@
 
 ## 📂 Projects 📂
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/tomatosugarpickled/CI-CD-globalgates">
-        <h3>🚀 CI-CD-globalgates</h3>
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/tomatosugarpickled/globalgates-front">
-        <h3>🌐 globalgates-front</h3>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/tomatosugarpickled/globalgates-back">
-        <h3>⚙️ globalgates-back</h3>
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/tomatosugarpickled/aws-candm">
-        <h3>🤖 aws-candm</h3>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/tomatosugarpickled/front">
-        <h3>🎨 front</h3>
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/tomatosugarpickled/back">
-        <h3>💾 back</h3>
-      </a>
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/tomatosugarpickled/CI-CD-globalgates">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tomatosugarpickled&repo=CI-CD-globalgates&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/tomatosugarpickled/aws-candm">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tomatosugarpickled&repo=aws-candm&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/tomatosugarpickled/globalgates-front">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tomatosugarpickled&repo=globalgates-front&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/tomatosugarpickled/globalgates-back">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tomatosugarpickled&repo=globalgates-back&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/tomatosugarpickled/front">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tomatosugarpickled&repo=front&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/tomatosugarpickled/back">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tomatosugarpickled&repo=back&theme=tokyonight&hide_border=true" />
+</a>
 
 </div>
 
