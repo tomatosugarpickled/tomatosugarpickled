@@ -8,7 +8,7 @@
   <a href="mailto:your.email@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <a href="[https://www.notion.so/](https://app.notion.com/p/Backend-Portfolio-36fc7b94f5a68109addce43ce4352408?source=copy_link)">
+  <a href="https://app.notion.com/p/Backend-Portfolio-36fc7b94f5a68109addce43ce4352408?source=copy_link">
     <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" />
   </a>
 </div>
