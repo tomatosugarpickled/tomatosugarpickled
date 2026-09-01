@@ -5,7 +5,7 @@
 
   <h3>안녕하세요. 개발자 홍성호입니다.</h3>
 
-  <a href="mailto:your.email@gmail.com">
+  <a href="mailto:tjdgh1851@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   <a href="https://app.notion.com/p/Backend-Portfolio-36fc7b94f5a68109addce43ce4352408?source=copy_link">
