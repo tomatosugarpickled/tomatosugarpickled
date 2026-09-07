@@ -3,17 +3,53 @@
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=tomatosugarpickled&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20Portfolio&descAlignY=60&descSize=18" />
 
-  <h3>안녕하세요. 개발자 홍성호입니다.</h3>
-
-  <a href="mailto:tjdgh1851@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://app.notion.com/p/Backend-Portfolio-36fc7b94f5a68109addce43ce4352408?source=copy_link">
-    <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" />
-  </a>
 </div>
 
-<br/>
+## 회원·인증 도메인을 구현하는 백엔드 개발자 홍성호입니다.
+
+Java와 Spring Boot로 회원가입·로그인, 마이페이지, 계정 설정 API를 구현했습니다.
+Global Gates에서는 JWT·OAuth2 인증과 Redis 토큰 처리, Spring–FastAPI 연동을 담당하고, 인증 객체와 계정 상태 전이에서 발생한 오류를 추적해 수정했습니다.
+
+[포트폴리오](https://app.notion.com/p/Backend-Portfolio-36fc7b94f5a68109addce43ce4352408) · [기술 블로그](https://velog.io/@tjdgh1851/posts) · [이메일](mailto:tjdgh1851@gmail.com)
+
+## 대표 프로젝트
+
+### Global Gates
+중소기업과 해외 바이어를 연결하는 무역 B2B SNS 팀 프로젝트입니다.
+
+- **담당:** 회원·인증, 마이페이지·설정 백엔드, Spring–FastAPI 연동, 뉴스 자동화와 배포
+- **문제 해결:** 로그인 식별값 누락, 계정 비활성화 직후 로그아웃 실패, 회원 정보 수정 시 캐시 처리
+- **기술:** Java 17, Spring Boot, Spring Security, MyBatis, PostgreSQL, Redis
+
+[백엔드 코드와 기여 안내](https://github.com/tomatosugarpickled/globalgates-back) · [배포 저장소](https://github.com/CI-CD-globalgates/CI-CD-globalgates) · [상세 포트폴리오](https://app.notion.com/399c7b94f5a6812aa6dcec7f535538be)
+
+### Commit & Merge
+팀·파트너 매칭과 펀딩을 연결하는 플랫폼의 팀 프로젝트입니다.
+
+- **담당:** 일반 회원 로그인·회원가입, 마이페이지 경력·학력·활동 내역, 게시물·팔로워·프로필 기능
+- **구현 경험:** Spring MVC와 MyBatis 계층 구성, 목록 조회와 화면 연동, 활동 내역·파일 처리
+- **기술:** Java 17, Spring Boot, Thymeleaf, MyBatis, MySQL, JavaScript
+
+[백엔드 코드](https://github.com/tomatosugarpickled/candm-back) · [AWS 배포 버전](https://github.com/tomatosugarpickled/aws-candm) · [상세 포트폴리오](https://app.notion.com/39dc7b94f5a681548913d737a9ec3186)
+
+## 코드로 확인할 수 있는 문제 해결
+
+| 사례 | 변경 내용과 근거 |
+| --- | --- |
+| 로그인 식별값 누락 | DTO에서 누락된 값을 다시 읽던 방식을 바꾸고, 인증 시 전달받은 식별값을 인증 객체에 전달했습니다. [수정 커밋](https://github.com/tomatosugarpickled/globalgates-back/commit/cf41f5eeaf2f1eac41680d88d59a41d5abc778d7) |
+| 비활성화 직후 로그아웃 실패 | 로그아웃 경로의 회원 조회 실패 처리와 토큰 누락 시 분기를 보완했습니다. [수정 커밋](https://github.com/tomatosugarpickled/globalgates-back/commit/920b04cd40f7fec4516b9c0f22c49367f42a1b32) |
+| 회원 정보 변경 시 캐시 처리 | 배포 저장소에서 반환값이 없는 변경 메서드에 `@CacheEvict`를 적용했습니다. [반영된 코드](https://github.com/CI-CD-globalgates/CI-CD-globalgates/blob/master/src/main/java/com/app/globalgates/service/MemberService.java) |
+
+개발 저장소와 배포 저장소는 반영 시점이 다릅니다. 각 사례의 코드와 실행 검증 범위는 [Global Gates README](https://github.com/tomatosugarpickled/globalgates-back#검증-범위와-남은-과제)에 구분해 두었습니다.
+
+## 학습 기록
+
+Java 기초와 네트워크 학습 내용을 예제 코드와 함께 정리하고 있습니다.
+
+[Java 학습 코드](https://github.com/tomatosugarpickled/study-java) · [벨로그](https://velog.io/@tjdgh1851/posts)
+
+<details>
+<summary>사용·학습 기술과 도구</summary>
 
 <!-- ======================== Tech Stack ======================== -->
 <div align="center">
@@ -116,6 +152,12 @@
 
 <br/>
 
+
+</details>
+
+<details>
+<summary>전체 프로젝트 저장소</summary>
+
 <!-- ======================== Projects ======================== -->
 <div align="center">
 
@@ -159,6 +201,9 @@
 </table>
 
 </div>
+
+
+</details>
 
 <!-- ======================== Footer ======================== -->
 <div align="center">
